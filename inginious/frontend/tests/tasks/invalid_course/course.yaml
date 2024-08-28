@@ -1,6 +1,6 @@
 admins:
   - demouser
-name: "[DEMO] Demonstration course"
+name: "Arvin"
 groups_student_choice: false
 accessible: true
 registration: true
