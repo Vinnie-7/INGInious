@@ -1,3 +1,8 @@
-name: "Unit test 1"
-admins: ["testadmin1","testadmin2"]
-accessible true
+admins:
+  - demouser
+name: "[DEMO] Demonstration course"
+groups_student_choice: false
+accessible: true
+registration: true
+registration_password: null
+registration_ac: null
